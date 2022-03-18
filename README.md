@@ -19,8 +19,7 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habib-zinelabidine&show_icons=true&locale=en&layout=compact" alt="habib-zinelabidine" /></p>
-<br>
-<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habib-zinelabidine&show_icons=true&locale=en" alt="habib-zinelabidine" /></p>
 
