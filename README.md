@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **react** and **Spring**
 
 - 📫 How to reach me **habib.zinelabidine@gmail.com**
 
