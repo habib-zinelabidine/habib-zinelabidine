@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Habib Zine el abidine</h1>
-<h3 align="center">A Student at EPI Sousse</h3>
+<h3 align="center">Software engineer from Tunisia</h3>
 
 
 
